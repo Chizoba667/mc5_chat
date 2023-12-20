@@ -2,6 +2,7 @@
 MC5 Chat Data is a web application designed to fetch and display real-time chat data from MC5. The application visualizes chat messages, including sender names, messages, and timestamps, and provides a graphical representation of messages per minute over time.
 ![Chat](https://github.com/Chizoba667/mc5_chat/assets/107937392/2dcfc378-d4e6-40fa-a448-69186c88e732)
 
+https://discord.gg/qr66G7FXVT
 ## Features
 
 - Real-time chat data visualization.
