@@ -27,6 +27,6 @@ The application fetches chat data from the following API endpoint:
 
 ```plaintext
 The API will be hidden
-
+```
 ![image](https://github.com/Chizoba667/mc5_chat/assets/107937392/60c78995-1d19-444f-9b0b-37a5de75a960)
 
